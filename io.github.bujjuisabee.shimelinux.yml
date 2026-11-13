@@ -49,7 +49,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/BujjuIsABee/shimelinux
-        tag: v1.4.3
-        commit: b131465f5af478347009bcf6b29bad6f5579af85
+        tag: v1.5.0
+        commit: f5950ba18187f9ba419bbf90f290f7f049139eac
       - gradle-sources.json
       - cargo-sources.json
