@@ -1345,6 +1345,20 @@
   },
   {
     "type": "file",
+    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-reflect/2.4.10/kotlin-reflect-2.4.10.jar",
+    "sha512": "4fb55b2e0e5aba69129223af643cc1227b862bd28ac97699b9f6840646173a8f4b9ff9eaf4a58bdf1e223f881dfd429409b977c35c4ccfd0e24c2b2e5e139dac",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.4.10",
+    "dest-filename": "kotlin-reflect-2.4.10.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-reflect/2.4.10/kotlin-reflect-2.4.10.pom",
+    "sha512": "93e4ee43572f22b07ad78a7bf97f151efd6e35462e65010693addd5f20570aff777c714002add574f7b8de0ebb0b7035d92c2a9155a3f75d162fd42c92d34ed6",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.4.10",
+    "dest-filename": "kotlin-reflect-2.4.10.pom"
+  },
+  {
+    "type": "file",
     "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-reflect/2.4.20/kotlin-reflect-2.4.20.pom",
     "sha512": "238e4330b697bfd2f27bd4660c3a8dacaa0c929fc56673921d34b8570c36bc07b65ff6619355459c7326d398f3041f6046cf3bc976f7c8c2e4b44e39be38ea66",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.4.20",
@@ -1636,6 +1650,27 @@
     "sha512": "ce37bd679da72a793e1e2c717a1ad792ddf59832e02120c9d358db543916de2991ec2d3a574c05bd08e06afba0b082e5637bb2c2b8f8b3a043d2104e508fc9e1",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.0",
     "dest-filename": "kotlin-stdlib-2.4.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.4.10/kotlin-stdlib-2.4.10.jar",
+    "sha512": "2214a0acb80919a40f3d45416e9c22f7fd32a6c63b70d3b7435a66d9f729dd5e77c40081b549ce570cea4c2c87b261069b575e515376033b35cb969b2faa3d3d",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.10",
+    "dest-filename": "kotlin-stdlib-2.4.10.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.4.10/kotlin-stdlib-2.4.10.module",
+    "sha512": "c2e2e6cb6e89043e507305d3b044bafb13282b90856ff59a8ea785e4d229f1d6d24a0ca242bb990f1c65eb4b67287bf7349558dfa81594b4c7160645ccadaa42",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.10",
+    "dest-filename": "kotlin-stdlib-2.4.10.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.4.10/kotlin-stdlib-2.4.10.pom",
+    "sha512": "9191ac9ff5eeccbe5cbabd6ad3d07f00e5911a9af2828d384908352a06c79a5bba4b8d91a55c160195ad595e77f43be26011d01c590ae4a9183b7026402dc918",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.10",
+    "dest-filename": "kotlin-stdlib-2.4.10.pom"
   },
   {
     "type": "file",
